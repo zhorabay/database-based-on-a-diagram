@@ -52,9 +52,9 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **[Vet Clinic Diagram]**
-- **[Vet Clinic Schema]**
-- **[Vet Clinic Database]**
+- **[Clinic Diagram]**
+- **[Clinic Schema]**
+- **[Clinic Database]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
